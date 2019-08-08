@@ -1,0 +1,27 @@
+h5 {
+	color: #f14b5c;  /* kolor pomarańczowy */
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: red;
+}
+h4{
+	font-weight: normal;
+}
+body {
+	background-color: #FFE7EC; /* kolor jasnoróżowy */
+}
+button {
+	background-color : #000000;
+	color: #FFFFFF;
+}
+input[type="text"] {
+  background-color: #FFE7EC;
+  border: 1px solid #000000;
+}
+input[type="email"] {
+  background-color: #FFE7EC;
+  border: 1px solid #000000;
+}
